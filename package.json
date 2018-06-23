@@ -1,0 +1,25 @@
+{
+  "name": "surviveargentum",
+  "version": "0.1.0-alpha",
+  "description": "Argentum 2d-game spinoff",
+  "main": "index.js",
+  "scripts": {
+    "precommit": "npm test",
+    "prepush": "npm test",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@githubjormot:jormot/surviveargentum.git"
+  },
+  "keywords": [
+    "argentum",
+    "argentumonline",
+    "argentum-online",
+    "game",
+    "video-game",
+    "2d-game"
+  ],
+  "author": "Jormot <jormot.king@gmail.com>",
+  "license": "MIT"
+}
